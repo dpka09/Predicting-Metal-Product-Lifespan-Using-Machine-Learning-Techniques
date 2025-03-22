@@ -49,7 +49,7 @@ Comprehensive exploration of features and parameters was performed to gain insig
 
 1. Clone the repository:
 
-         git clone https://github.com/username/repo-name.git
+         git clone https://github.com/dpka09/Predicting-Metal-Product-Lifespan-Using-Machine-Learning-Techniques.git
 
 
 2. Navigate to the project directory:
@@ -64,5 +64,4 @@ Comprehensive exploration of features and parameters was performed to gain insig
 
 4. Run the models:
 
-
-    python main.py
+        python main.py
